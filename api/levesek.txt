@@ -1,0 +1,7 @@
+
+neatbeans:
+http://localhost/api/index.php?levesek
+header rész:
+php header json
+php header cors
+
